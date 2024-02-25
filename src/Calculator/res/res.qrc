@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img_2/fon.jpeg</file>
+        <file>img_2/image_main.png</file>
+        <file>img_2/plot.png</file>
+    </qresource>
+</RCC>
